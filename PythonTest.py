@@ -1,5 +1,5 @@
-my_name = "Marcella"
-if my_name == "Chris":
+my_name = "Chris" + " Mullins"
+if my_name == "Chris" + " Murphy":
     print("This was a successful test, " + my_name + ".")
 else:
     print("Nice try, imposter.")
