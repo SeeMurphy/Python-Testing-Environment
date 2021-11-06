@@ -1,4 +1,4 @@
-playerNumber = "58"
+playerNumber = "47"
 correctNumber = "58"
 FIRST = "This number is too high. Please try again."
 SECOND = "This number is too low. Please try again."
