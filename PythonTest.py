@@ -1,5 +1,5 @@
-my_name = "Chris" + " Mullins"
-if my_name == "Chris" + " Murphy":
-    print("This was a successful test, " + my_name + ".")
+login = "Chris" + " Sanford"
+if login == "Chris" + " Murphy":
+    print("Welcome, " + login + ".")
 else:
-    print("Nice try, imposter.")
+    print("Access Denied.")
